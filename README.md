@@ -52,7 +52,7 @@
 	<pre>[write] set constraint target to its' starting position</pre>
 	<b> wait: </b>
 	<pre>wait until constraint movement is completed</pre>
-	b> destroy: </b>
+	<b> destroy: </b>
 	<pre>[write] destroy the instance</pre>
 </details>
 
