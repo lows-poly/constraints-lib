@@ -1,6 +1,10 @@
 <h1 align="center"> constraints-lib </h1>
 <p align="center"> A physic constraints module for detecting whether <b>PrismaticConstraint</b> or <b>HingeConstraint</b> has reached to its target position </p>
 
+> NOTE: <br>
+> This library is originally designed to solve my personal problem I faced while working with constraints. Feel free to modify to make it more suitable for your needs.
+
+
 # Dependencies:
 [Signal - Sleitnick](https://github.com/Sleitnick/RbxUtil/blob/main/modules/signal/init.luau)
 
